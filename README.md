@@ -1,5 +1,5 @@
 
-## Me chamo Paulo H. Brito
+## Paulo H. Brito Dos Santos
  <div>
   <a href="https://github.com/sogekng">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=sogekng&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
